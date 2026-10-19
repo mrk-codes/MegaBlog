@@ -1,4 +1,4 @@
-import { conf } from "../config.js";
+import { conf } from "../conf/conf.js";
 import { Account, Client, ID } from "appwrite";
 
 export class AuthService {
